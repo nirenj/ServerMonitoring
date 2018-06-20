@@ -1,3 +1,7 @@
+ServerMonitoring Shell Scripts
+
+Shell scripts to monitor CPU and Memory of a Unix based system and output to a file.
+
 We all want to monitor CPU usage and memory usage of a process continuously and get that output to a file so that we can use them to analyze more later with graphs and stuff.
 
 Below are two shell scripts which use Linux top and free commands to undertake this task for me.
